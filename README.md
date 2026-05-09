@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="150" src="https://raw.githubusercontent.com/TaylorKunZhang/pic-repo/main/SubTune/ic_launcher_round.png" />
 
 
 # 🎵 SubTune
