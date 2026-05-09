@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/Android-Material%203-success?style=for-the-badge&logo=android">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/Subsonic-Compatible-blue?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/isairey/SubTune?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/isairey/SubTune?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/isairey/SubTune?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/ProgramadoresDeTodoUnPoco/AppMovilStreaminMusica?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/ProgramadoresDeTodoUnPoco/AppMovilStreaminMusica?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/ProgramadoresDeTodoUnPoco/AppMovilStreaminMusica?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -189,8 +189,8 @@ SubTune/
 ## 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/isairey/SubTune.git
-cd SubTune
+git clone https://github.com/ProgramadoresDeTodoUnPoco/AppMovilStreaminMusica.git
+cd ProgramadoresDeTodoUnPoco/AppMovilStreaminMusica
 ```
 
 ---
