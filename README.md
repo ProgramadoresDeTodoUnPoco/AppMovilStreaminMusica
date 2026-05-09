@@ -101,15 +101,7 @@ SubTune ofrece una experiencia moderna basada en Material 3, con reproducción m
 
 ---
 
-# 🎥 Demo
 
-<div align="center">
-
-https://user-images.githubusercontent.com/demo/subtune-demo.mp4
-
-</div>
-
----
 
 # 🛠️ Tecnologías Utilizadas
 
